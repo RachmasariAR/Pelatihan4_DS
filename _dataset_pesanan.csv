@@ -1,0 +1,35 @@
+ID Pelanggan,Nama,Jenis Kelamin,Makanan,Harga Makanan,Minuman,Harga Minuman,Total Bayar,Review
+1,Nisa,P,Ayam bakar,16000.0,Jus,5000.0,21000,4.0
+2,Isvi,P,Ayam geprek,16000.0,Es teler,7000.0,23000,5.0
+3,Nawa,L,Nila bakar,15000.0,Es jeruk,4000.0,19000,3.0
+4,Zayga,L,Ayam goreng,15000.0,Es buah,8000.0,23000,4.0
+5,Dekhsa,L,Ayam geprek,16000.0,Es jeruk,4000.0,20000,5.0
+6,Ulil,L,Lele goreng,11000.0,Es teh,3000.0,14000,2.0
+7,Nibras,L,Lele bakar,12000.0,Es teh,3000.0,15000,1.0
+8,Alwy,L,Ayam bakar,16000.0,Jus,5000.0,21000,4.0
+9,Egi,L,Ayam bakar,16000.0,Es teler,7000.0,23000,3.0
+10,Naufal,L,Nila bakar,15000.0,Es buah,8000.0,23000,5.0
+11,Nico,L,Nila goreng,,Es teh,3000.0,17000,3.0
+12,Syamsul,L,Ayam geprek,16000.0,Es jeruk,4000.0,20000,2.0
+13,Riyan,L,Nila bakar,15000.0,Es buah,8000.0,23000,3.0
+14,Agil,L,Ayam goreng,15000.0,Es jeruk,4000.0,19000,3.0
+15,Bayu,L,Nila bakar,15000.0,Es teler,7000.0,22000,2.0
+16,Difa,L,Nila goreng,14000.0,Es teh,,17000,4.0
+17,Shandika,L,Ayam geprek,16000.0,Es teh,3000.0,19000,5.0
+3,Nawa,L,Nila bakar,15000.0,Es jeruk,4000.0,19000,3.0
+18,Dzikri,L,Nila goreng,14000.0,Es jeruk,4000.0,18000,5.0
+19,Nasywan,L,Lele bakar,12000.0,Es teler,7000.0,19000,3.0
+20,Salman,L,Ayam geprek,16000.0,Jus,5000.0,21000,
+21,Rin,P,Ayam goreng,15000.0,Jus,5000.0,20000,5.0
+22,Hevin,L,Ayam bakar,16000.0,Jus,5000.0,21000,2.0
+23,Tasya,P,Nila bakar,15000.0,Es buah,8000.0,23000,
+24,Sita,P,Nila goreng,14000.0,Es teler,7000.0,21000,4.0
+25,Yogi,L,Lele goreng,11000.0,Es jeruk,4000.0,15000,3.0
+26,Nova,P,Ayam goreng,15000.0,Es teh,3000.0,18000,3.0
+27,Figo,L,Ayam geprek,16000.0,Es teh,3000.0,19000,2.0
+28,Dinda,P,Nila goreng,14000.0,Es jeruk,4000.0,18000,4.0
+29,Faris,L,Lele goreng,11000.0,Es teh,3000.0,14000,2.0
+30,Wahyu,L,Nila bakar,15000.0,Es teh,3000.0,18000,3.0
+31,Humam,L,Ayam geprek,16000.0,Es jeruk,4000.0,20000,4.0
+32,Adib,L,Ayam bakar,16000.0,Es buah,8000.0,24000,3.0
+9,Egi,L,Ayam bakar,16000.0,Es teler,7000.0,23000,3.0
